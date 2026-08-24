@@ -4,9 +4,9 @@ Create fly-through animations of the Virgo Cluster image from NOIRLab. (Image Ex
 
 ## Demo
 
-[![Virgo Cluster fly-through](https://img.youtube.com/vi/n02EaE5d3q8/sddefault.jpg)](https://youtu.be/n02EaE5d3q8)
+[![Andromeda Flythrough — demo video](https://img.youtube.com/vi/FOAR0uGaumg/maxresdefault.jpg)](https://www.youtube.com/watch?v=FOAR0uGaumg)
 
-*Click the image to watch the rendered fly-through on YouTube.*
+▶️ [Watch on YouTube](https://www.youtube.com/watch?v=FOAR0uGaumg)
 
 ## About
 This script generates a smooth fly-through animation of the Virgo Cluster image, featuring:
