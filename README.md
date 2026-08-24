@@ -4,7 +4,7 @@ Create fly-through animations of the Virgo Cluster image from NOIRLab. (Image Ex
 
 ## Demo
 
-[![Virgo Cluster fly-through](https://img.youtube.com/vi/n02EaE5d3q8/maxresdefault.jpg)](https://youtu.be/n02EaE5d3q8)
+[![Virgo Cluster fly-through](https://img.youtube.com/vi/n02EaE5d3q8/sddefault.jpg)](https://youtu.be/n02EaE5d3q8)
 
 *Click the image to watch the rendered fly-through on YouTube.*
 
