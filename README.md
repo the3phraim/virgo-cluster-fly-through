@@ -2,6 +2,12 @@
 
 Create fly-through animations of the Virgo Cluster image from NOIRLab. (Image Export)
 
+## Demo
+
+[![Virgo Cluster fly-through](https://img.youtube.com/vi/n02EaE5d3q8/maxresdefault.jpg)](https://youtu.be/n02EaE5d3q8)
+
+*Click the image to watch the rendered fly-through on YouTube.*
+
 ## About
 This script generates a smooth fly-through animation of the Virgo Cluster image, featuring:
 - Initial zoom-in
@@ -58,6 +64,7 @@ save_zoom_circle_zoom(
     circle_degrees=200,
     export_res=(EXPORT_X, EXPORT_Y)
 )
+```
 
 ## License
 MIT License - see LICENSE file
